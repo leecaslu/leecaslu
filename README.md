@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leecaslu
 - 👀 Chess and classical music are my passion! I'm learning to code and starting my portfolio on the GitHub Community, where I hope I can learn more and eventually participate on new projects.
-- 🌱 I’m currently learning Python 3, but I look forward on developing myself on SQL and JavaScript.
-- 💞️ I’m looking to collaborate with any team with a project that needs a Python intermediate coder.
+- 🌱 I’m an intermediate level coder, with Junior level experience on Python 3, JavaScript and SQL.
 - 📫 How to reach me: Feel free to contact me through GitHub
 
 <!---
