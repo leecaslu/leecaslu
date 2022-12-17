@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lucas Lee
 - 👀 Chess and classical music are my passion! I'm learning to code and starting my portfolio on the GitHub Community, where I hope I can learn more and eventually participate on new projects.
 - 🌱 I’m a JR level developer, with Junior level experience on Python 3, SQL and JavaScript. Currently learning React.js and PHP.
+- 🧑‍💻 Curently working as a RPA developer for Votorantim Cimentos, at Curitiba
 - 📫 How to reach me: Feel free to contact me through GitHub
 
 <!---
